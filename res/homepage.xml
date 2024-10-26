@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page>
+	<table>
+		<tr>
+			<td>
+				<label id="labelTitle" text="#TITLE_TEST"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<button id="btnNewGame" text="#NEW_GAME"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<button id="btnOptions" text="#OPTIONS"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<button id="btnQuit" text="#QUIT"/>
+			</td>
+		</tr>
+	</table>
+</page>
