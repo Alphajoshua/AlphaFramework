@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlphaFramework", "AlphaFramework.vcxproj", "{01F32ECA-E43A-4F7D-A1A4-A0D79B5DC6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F32ECA-E43A-4F7D-A1A4-A0D79B5DC6F8}.Debug|x64.ActiveCfg = Debug|x64
+		{01F32ECA-E43A-4F7D-A1A4-A0D79B5DC6F8}.Debug|x64.Build.0 = Debug|x64
+		{01F32ECA-E43A-4F7D-A1A4-A0D79B5DC6F8}.Release|x64.ActiveCfg = Release|x64
+		{01F32ECA-E43A-4F7D-A1A4-A0D79B5DC6F8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84EC97F9-0963-4D0F-8069-407E0BC519F9}
+	EndGlobalSection
+EndGlobal
